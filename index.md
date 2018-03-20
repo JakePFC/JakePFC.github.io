@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## How do I make web?
+
+Great question. As time goes on I expect this will get easier but for now, it's fair to revel in the absolute monstrosity created in the name of learnding.
 
 You can use the [editor on GitHub](https://github.com/JakePFC/JakePFC.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
